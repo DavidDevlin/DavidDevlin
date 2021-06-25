@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello :wave:
+
+<p align="center">
+  <samp>
+I'm David Devlin. I like Maths, coding and trying to solve problems.
+  </samp>
+</p>
+
 
 🔭 I’m currently working on completing a 12-week, full-time, classroom-based skills development and training program on IT fundamentals and AWS Cloud.
 
