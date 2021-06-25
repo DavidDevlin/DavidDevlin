@@ -1,9 +1,7 @@
 # Hello :wave:
 
 <p align="center">
-  <samp>
 I'm David Devlin. I like Maths, coding and trying to solve problems.
-  </samp>
 </p>
 
 
