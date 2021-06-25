@@ -3,6 +3,7 @@
 test
 
 🔭 I’m currently working on completing a 12-week, full-time, classroom-based skills development and training program on IT fundamentals and AWS Cloud.
+
 🌱 I’m currently learning how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lambda, Cloud Formation, RDS and Route 53. 
 
 👔 [linkedin][linkedin]
