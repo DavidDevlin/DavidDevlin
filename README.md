@@ -1,5 +1,4 @@
 # Hello :wave:
-
 <p align="center">
 I'm David Devlin. I like Maths, coding and trying to solve problems.
 </p>
