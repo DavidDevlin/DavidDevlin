@@ -2,6 +2,9 @@
 
 test
 
+🔭 I’m currently working on completing a 12-week, full-time, classroom-based skills development and training program on IT fundamentals and AWS Cloud.
+ 🌱 I’m currently learning 
+
 <!--
 **DavidDevlin/DavidDevlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
