@@ -3,7 +3,7 @@
 test
 
 🔭 I’m currently working on completing a 12-week, full-time, classroom-based skills development and training program on IT fundamentals and AWS Cloud.
- 🌱 I’m currently learning 
+🌱 I’m currently learning how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lambda, Cloud Formation, RDS and Route 53. 
 
 👔 [linkedin][linkedin]
 
@@ -17,12 +17,11 @@ test
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on completing a 12-week, full-time, classroom-based skills development and training program on IT fundamentals and AWS Cloud.
- 🌱 I’m currently learning 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
- 📫 How to reach me: ...
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
